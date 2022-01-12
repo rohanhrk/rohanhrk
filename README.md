@@ -8,7 +8,7 @@ I am an undergraduate student at NIT Silchar pursuing his bachelor's in Electric
 
 ✨ Frontend Developement : https://github.com/rohanhrk/DEV_2022
 
-## TECHNOLOGIES
+## TECHNOLOGIES👩‍💻
 
 ✨ C/C++
 ✨ Java
