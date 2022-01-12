@@ -1,8 +1,14 @@
-# Rohan Hazarika
+## ROHAN HAZARIKA
 
 I am an undergraduate student at NIT Silchar pursuing his bachelor's in Electrical Engineering. I am interested in the software development field and am seeking exciting opportunities related to the same. I write code in c++, java, JavaScript, and am learning about the various frameworks and web APIs, and I have solved 250+ data structure & algorithm questions on various coding platforms like LeetCode, GFG, and codeforces.
 
-# Technologies
+## LEARNING
+Data Structure And Algorithm
+Web Devlopement
+Data Visualization
+Deep Learning
+
+## Technologies
 
 ✔️ C/C++
 ✔️ Java
@@ -18,7 +24,7 @@ I am an undergraduate student at NIT Silchar pursuing his bachelor's in Electric
 ✔️ jQuery
 ✔️ React
 
-# Contact Me
+## Contact Me
 
 Linkedin- www.linkedin.com/in/rohan-hazarika
 
