@@ -4,22 +4,35 @@ I am an undergraduate student at NIT Silchar pursuing his bachelor's in Electric
 
 ## LEARNING
 ✨ Data Structure And Algorithm : https://github.com/rohanhrk/DSA
+
 ✨ Frontend Developement : https://github.com/rohanhrk/DEV_2022
 
 ## Technologies
 
 ✨ C/C++
+
 ✨ Java
+
 ✨ Data structure & algorithm
+
 ✨ JavaScript
+
 ✨ Node js
+
 ✨ Web Scrapping
+
 ✨ automation
+
 ✨ puppeteer
+
 ✨ Html
+
 ✨ CSS
+
 ✨ DOM
+
 ✨ jQuery
+
 ✨ React
 
 ## Contact Me
