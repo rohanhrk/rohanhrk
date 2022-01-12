@@ -1,16 +1,25 @@
-### Hi there 👋
+# Rohan Hazarika
 
-<!--
-**rohanhrk/rohanhrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an undergraduate student at NIT Silchar pursuing his bachelor's in Electrical Engineering. I am interested in the software development field and am seeking exciting opportunities related to the same. I write code in c++, java, JavaScript, and am learning about the various frameworks and web APIs, and I have solved 250+ data structure & algorithm questions on various coding platforms like LeetCode, GFG, and codeforces.
 
-Here are some ideas to get you started:
+# Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✔️ C/C++
+✔️ Java
+✔️ Data structure & algorithm
+✔️ JavaScript
+✔️ Node js
+✔️ Web Scrapping
+✔️ automation
+✔️ puppeteer
+✔️ Html
+✔️ CSS
+✔️ DOM
+✔️ jQuery
+✔️ React
+
+# Contact Me
+
+Linkedin- www.linkedin.com/in/rohan-hazarika
+
+gmail: rohan_ug@ee.nits.ac.in
