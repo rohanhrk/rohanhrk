@@ -1,31 +1,31 @@
-## 👨‍🎓ROHAN HAZARIKA
+## 👨‍🎓 ROHAN HAZARIKA
 
-I am an undergraduate student at NIT Silchar pursuing his bachelor's in Electrical Engineering. I am interested in the software development field and am seeking exciting opportunities related to the same. I write code in c++, java, JavaScript, and am learning about the various frameworks and web APIs, and I have solved 250+ data structure & algorithm questions on various coding platforms like LeetCode, GFG, and codeforces.
+    I am an undergraduate student at NIT Silchar pursuing his bachelor's in Electrical Engineering. I am interested in the software development field and am seeking exciting     opportunities related to the same. I write code in c++, java, JavaScript, and am learning about the various frameworks and web APIs, and I have solved 250+ data structure & algorithm questions on various coding platforms like LeetCode, GFG, and codeforces.
 
-## ⚡LEARNING
+## 🎯 LEARNING
 
-✨ Data Structure And Algorithm : https://github.com/rohanhrk/DSA
+  ✨ Data Structure And Algorithm : https://github.com/rohanhrk/DSA
 
-✨ Frontend Developement : https://github.com/rohanhrk/DEV_2022
+  ✨ Frontend Developement : https://github.com/rohanhrk/DEV_2022
 
-## 👩‍💻TECHNOLOGIES
+## 👩‍💻 TECHNOLOGIES
 
-✨ C/C++
-✨ Java
-✨ Data structure & algorithm
-✨ JavaScript
-✨ Node js
-✨ Web Scrapping
-✨ automation
-✨ puppeteer
-✨ Html
-✨ CSS
-✨ DOM
-✨ jQuery
-✨ React
+  ✨ C/C++
+  ✨ Java
+  ✨ Data structure & algorithm
+  ✨ JavaScript
+  ✨ Node js
+  ✨ Web Scrapping
+  ✨ automation
+  ✨ puppeteer
+  ✨ Html
+  ✨ CSS
+  ✨ DOM
+  ✨ jQuery
+  ✨ React
 
-## ☎CONTACT ME
+## ☎ CONTACT ME
 
-Linkedin- www.linkedin.com/in/rohan-hazarika
+  Linkedin- www.linkedin.com/in/rohan-hazarika
 
-gmail: rohan_ug@ee.nits.ac.in
+  gmail: rohan_ug@ee.nits.ac.in
