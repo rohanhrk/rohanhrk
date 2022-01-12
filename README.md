@@ -4,7 +4,7 @@ I am an undergraduate student at NIT Silchar pursuing his bachelor's in Electric
 
 ## 🎯 LEARNING
 
-  ✅ Data Structure And Algorithm : https://github.com/rohanhrk/DSA
+  ✅ Data Structures And Algorithms : https://github.com/rohanhrk/DSA
 
   ✅ Frontend Developement : https://github.com/rohanhrk/DEV_2022
 
