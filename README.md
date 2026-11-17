@@ -56,7 +56,7 @@
 
 ### 🐍 Python Ecosystem
 
-- **Data Processing:** Pandas, NumPy, PyArrow
+- **Data Processing:** Pandas, NumPy, PyArrow, Polar
 - **AWS & APIs:** Boto3, Requests
 - **Database & Testing:** SQLAlchemy, Pytest
 - **Standard Library:** JSON, CSV, OS, pathlib, datetime, logging
