@@ -1,24 +1,31 @@
+
 <p align="center">
-  <img
-    src="./assets/developer-coding.gif"
-    alt="Developer coding animation"
-    width="800"
-  />
+  <img src="./assets/developer-coding.gif"
+       alt="Developer coding animation"
+       width="850" />
 </p>
 
-# 👋 Hi, I'm Rohan Hazarika
+<h1 align="center">👋 Hi, I'm Rohan Hazarika</h1>
 
-### Data Engineer | AWS | Databricks
+<h3 align="center">Data Engineer | AWS | Databricks</h3>
 
-![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&width=650&lines=Building+Cloud+Data+Pipelines;AWS+%7C+Databricks+%7C+PySpark;Exploring+Modern+Data+Architectures)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+Cloud+Data+Pipelines;AWS+%7C+Databricks+%7C+PySpark;Exploring+Modern+Data+Architectures"
+       alt="Typing animation" />
+</p>
 
-Building cloud data pipelines, distributed processing solutions, and modern lakehouse architectures.
+<p align="center">
+  Building cloud data pipelines, distributed processing solutions,
+  and modern lakehouse architectures.
+</p>
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
 ---
 
@@ -38,6 +45,8 @@ Building cloud data pipelines, distributed processing solutions, and modern lake
 
 🎓 **Education:** B.Tech in Electrical Engineering — National Institute of Technology, Silchar.
 
+---
+
 ## 🛠️ Technical Skills
 
 | Category | Technologies |
@@ -48,6 +57,8 @@ Building cloud data pipelines, distributed processing solutions, and modern lake
 | 🏞️ Lakehouse | Databricks, Delta Lake, Unity Catalog, Lakeflow |
 | 🔩 Tools | Git, GitHub, GitHub Actions |
 
+---
+
 ## 🌟 Featured Projects
 
 ### 📊 1. YouTube Trending Data Pipeline
@@ -56,7 +67,15 @@ An automated AWS pipeline that ingests YouTube data and processes it through Bro
 
 **Tech Stack:** Python · AWS Lambda · S3 · Glue · Athena · Step Functions · EventBridge
 
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohanhrk/youtube-data-analysis-pipeline)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rohanhrk/youtube-data-analysis-pipeline/main/architecture_diagrams/YouTube%20Trending%20Data%20Pipeline.png"
+       alt="YouTube Trending Data Pipeline Architecture"
+       width="850" />
+</p>
+
+[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohanhrk/youtube-data-analysis-pipeline)
+
+---
 
 ### 🏗️ 2. Uber Eats Marketplace Lakehouse
 
@@ -64,7 +83,15 @@ A Databricks lakehouse implementing incremental ingestion, Medallion Architectur
 
 **Tech Stack:** Databricks · PySpark · Delta Lake · Auto Loader · Unity Catalog
 
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohanhrk/uber-eats-marketplace-lakehouse)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rohanhrk/uber-eats-marketplace-lakehouse/main/docs/images/uber-eats-marketplace-lakehouse-architecture.png"
+       alt="Uber Eats Marketplace Lakehouse Architecture"
+       width="850" />
+</p>
+
+[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohanhrk/uber-eats-marketplace-lakehouse)
+
+---
 
 ### 🔍 3. Salesforce Renewal Risk Intelligence
 
@@ -72,7 +99,15 @@ A Salesforce-to-Databricks data platform designed for customer analytics, renewa
 
 **Tech Stack:** Salesforce · Databricks · Lakeflow · Unity Catalog · Python
 
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohanhrk/salesforce-renewal-risk-dbx-pipeline)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rohanhrk/salesforce-renewal-risk-dbx-pipeline/main/docs/assets/architecture-designer-handmade-sketch.png"
+       alt="Salesforce Renewal Risk Architecture"
+       width="850" />
+</p>
+
+[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohanhrk/salesforce-renewal-risk-dbx-pipeline)
+
+---
 
 ## 📚 Engineering Resources
 
@@ -84,16 +119,32 @@ A Salesforce-to-Databricks data platform designed for customer analytics, renewa
 - ☁️ AWS cloud-native data engineering.
 - 🤖 AI Data Engineering and modern lakehouse capabilities.
 
+---
+
 ## 🤝 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohanhrk)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-hazarika/)
+<p align="center">
+  <a href="https://github.com/rohanhrk">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/rohan-hazarika/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ## 💻 Coding Profiles
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/imRohan150/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/rohanhrk1999?tab=activity)
+<p align="center">
+  <a href="https://leetcode.com/u/imRohan150/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/rohanhrk1999?tab=activity">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+  </a>
+</p>
 
 ---
 
-*Learning continuously. Building consistently. Engineering better data systems.*
+<p align="center">
+  <i>Learning continuously. Building consistently. Engineering better data systems.</i>
+</p>
