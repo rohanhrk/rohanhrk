@@ -1,3 +1,5 @@
+![Developer Coding Animation](./assets/developer-coding.gif)
+
 # 👋 Hi, I'm Rohan Hazarika
 
 ### Data Engineer | AWS | Databricks
@@ -80,6 +82,11 @@ A Salesforce-to-Databricks data platform designed for customer analytics, renewa
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohanhrk)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-hazarika/)
+
+## 💻 Coding Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/imRohan150/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/rohanhrk1999?tab=activity)
 
 ---
 
