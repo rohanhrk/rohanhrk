@@ -77,7 +77,7 @@ A Databricks lakehouse implementing incremental ingestion, Medallion Architectur
 <p align="center">
   <img src="https://raw.githubusercontent.com/rohanhrk/uber-eats-marketplace-lakehouse/main/docs/images/uber-eats-marketplace-lakehouse-architecture.png"
        alt="Uber Eats Marketplace Lakehouse Architecture"
-       width="850" />
+       width="760" />
 </p>
 
 [![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohanhrk/uber-eats-marketplace-lakehouse)
@@ -98,7 +98,7 @@ A Salesforce-to-Databricks data platform designed for customer analytics, renewa
 <p align="center">
   <img src="https://raw.githubusercontent.com/rohanhrk/salesforce-renewal-risk-dbx-pipeline/main/docs/assets/architecture-designer-handmade-sketch.png"
        alt="Salesforce Renewal Risk Architecture"
-       width="850" />
+       width="760" />
 </p>
 
 [![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohanhrk/salesforce-renewal-risk-dbx-pipeline)
