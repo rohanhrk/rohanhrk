@@ -42,10 +42,16 @@ Through hands-on projects, I'm exploring how **AWS and Databricks** can be used 
 
 ## 💼 Professional Background
 
-- Previously worked as a **Solution Delivery Analyst at Deloitte USI**.
-- Worked with **Oracle Fusion Cloud Security & Controls**, supporting HCM and ERP/FSCM environments.
-- Experience with enterprise application security, role-based access, access reviews, and audit-related activities.
-- Currently focusing on **Cloud Data Engineering and modern data platforms**.
+Previously a **Solution Delivery Analyst at Deloitte USI**, working on Oracle Fusion Cloud Security & Controls across HCM and ERP/FSCM environments.
+
+My work focused on securing enterprise data and applications through:
+
+- 🔐 **Data Access & RBAC:** Configured and supported job, abstract, and data roles; role hierarchies; and access provisioning and validation.
+- 🛡️ **Data Governance & Controls:** Supported segregation-of-duties (SoD) analysis, sensitive-access reviews, access certification, and audit readiness.
+- 📊 **Reporting & Data Visibility:** Worked with BI/OTBI reports and catalog-folder permissions to help ensure users had appropriate access to business information.
+- 🔍 **Security Monitoring & Assurance:** Investigated access issues, supported root-cause analysis, and performed access reviews and control validation across enterprise environments.
+
+This experience gave me a strong foundation in **data security, access governance, data controls, and auditability** — areas that are essential when designing and operating trusted data platforms. I'm now building on that foundation through hands-on Cloud Data Engineering projects with AWS and Databricks.
 
 🎓 **Education:** B.Tech in Electrical Engineering — National Institute of Technology, Silchar.
 
