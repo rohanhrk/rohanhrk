@@ -1,4 +1,10 @@
-![Developer Coding Animation](./assets/developer-coding.gif)
+<p align="center">
+  <img
+    src="./assets/developer-coding.gif"
+    alt="Developer coding animation"
+    width="800"
+  />
+</p>
 
 # 👋 Hi, I'm Rohan Hazarika
 
