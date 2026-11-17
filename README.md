@@ -159,15 +159,20 @@ A Salesforce-to-Databricks data platform designed for customer analytics, renewa
 
 ---
 
-## 📚 Engineering Resources
+## 📚 Learning & Current Focus
 
-📖 [Data Engineering Notes](https://github.com/rohanhrk/data-engineering-notes-2026) — Technical notes, hands-on practice, and interview preparation.
+Keeping my Data Engineering skills sharp through structured learning, hands-on implementation, and continuous project work.
 
-## 🔭 Currently Exploring
+**📖 Learning Resources**
 
-- ⚡ Advanced Spark and distributed data processing.
-- ☁️ AWS cloud-native data engineering.
-- 🤖 AI Data Engineering and modern lakehouse capabilities.
+- [Data Engineering Notes](https://github.com/rohanhrk/data-engineering-notes-2026) — My technical notes, practical exercises, and interview preparation across core Data Engineering topics.
+
+**🔭 Current Focus**
+
+- ⚡ **Distributed Data Processing:** Deepening my understanding of Apache Spark, PySpark, and performance fundamentals.
+- ☁️ **Cloud Data Engineering:** Building and improving AWS-based ingestion, transformation, and orchestration workflows.
+- 🏞️ **Lakehouse Engineering:** Exploring Databricks, Delta Lake, medallion architecture, and data quality practices.
+- 🤖 **AI Data Engineering:** Learning to integrate RAG, vector search, and LLM-powered capabilities into data applications.
 
 ---
 
