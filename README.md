@@ -1,4 +1,3 @@
-```markdown
 # Rohan Hazarika
 
 ### Data Engineer | AWS | Databricks
@@ -64,6 +63,3 @@ A Salesforce-to-Databricks data platform for customer analytics, renewal risk as
 
 - [GitHub](https://github.com/rohanhrk)
 - [LinkedIn](https://www.linkedin.com/in/rohan-hazarika/)
-
----
-```
