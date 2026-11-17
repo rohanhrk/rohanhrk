@@ -40,6 +40,120 @@ Through hands-on projects, I'm exploring how **AWS and Databricks** can be used 
 - 🤖 **Exploring:** AI-powered data applications, RAG, and LLM-integrated data workflows.
 - 📈 **Growing through:** Hands-on projects, continuous learning, and consistent problem-solving practice.
 
+## 🌟 Featured Projects
+
+### 📊 1. YouTube Trending Data Pipeline
+
+An automated AWS pipeline that ingests YouTube data and processes it through Bronze, Silver, and Gold layers, with data quality validation and orchestration.
+
+**Tech Stack:** Python · AWS Lambda · Amazon S3 · AWS Glue · Athena · Step Functions · EventBridge
+
+**Engineering Highlights**
+- API-driven ingestion across multiple regional datasets.
+- Bronze, Silver, and Gold transformations using AWS services.
+- Automated data-quality validation and workflow orchestration.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rohanhrk/youtube-data-analysis-pipeline/main/architecture_diagrams/YouTube%20Trending%20Data%20Pipeline.png"
+       alt="YouTube Trending Data Pipeline Architecture"
+       width="760" />
+</p>
+
+[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohanhrk/youtube-data-analysis-pipeline)
+
+---
+
+### 🏗️ 2. Uber Eats Marketplace Lakehouse
+
+A Databricks lakehouse implementing incremental ingestion, Medallion Architecture, SCD Type 2, data quality checks, and deployment workflows.
+
+**Tech Stack:** Databricks · PySpark · Delta Lake · Auto Loader · Unity Catalog
+
+**Engineering Highlights**
+- Incremental ingestion with Auto Loader and a medallion architecture.
+- SCD Type 2 processing for historical data tracking.
+- Data-quality checks, quarantine handling, and deployment workflows.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rohanhrk/uber-eats-marketplace-lakehouse/main/docs/images/uber-eats-marketplace-lakehouse-architecture.png"
+       alt="Uber Eats Marketplace Lakehouse Architecture"
+       width="850" />
+</p>
+
+[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohanhrk/uber-eats-marketplace-lakehouse)
+
+---
+
+### 🔍 3. Salesforce Renewal Risk Intelligence
+
+A Salesforce-to-Databricks data platform designed for customer analytics, renewal risk assessment, and AI-powered insights.
+
+**Tech Stack:** Salesforce · Databricks · Lakeflow · Unity Catalog · Python
+
+**Engineering Highlights**
+- Salesforce source integration for customer and renewal-related data.
+- Lakehouse transformations and governed analytics datasets.
+- Exploration of AI-assisted customer insights and renewal intelligence.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rohanhrk/salesforce-renewal-risk-dbx-pipeline/main/docs/assets/architecture-designer-handmade-sketch.png"
+       alt="Salesforce Renewal Risk Architecture"
+       width="850" />
+</p>
+
+[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohanhrk/salesforce-renewal-risk-dbx-pipeline)
+
+---
+
+## 🛠️ Technical Skills
+
+Technologies and tools I use in projects or am actively developing proficiency in:
+
+### 💻 Programming & Querying
+
+- **Languages:** Python, SQL
+- **Big Data Processing:** Apache Spark, PySpark
+
+### 🐍 Python Ecosystem
+
+- **Data Processing:** Pandas, NumPy, PyArrow, Polars
+- **AWS & APIs:** Boto3, Requests
+- **Database & Testing:** SQLAlchemy, Pytest
+- **Standard Library:** JSON, CSV, OS, pathlib, datetime, logging
+
+### 🔄 Data Engineering & Distributed Systems
+
+- **Streaming & Messaging:** Apache Kafka, Amazon Kinesis
+- **Workflow Orchestration:** Apache Airflow, AWS Step Functions
+- **Databases:** Amazon DynamoDB, MySQL, MongoDB
+- **Engineering Concepts:** ETL/ELT Pipelines, Data Warehousing, Data Modeling
+
+### 🏞️ Lakehouse & Databricks
+
+- Databricks, Delta Lake, Unity Catalog
+
+### ☁️ AWS Cloud Services
+
+| Area | Services |
+|---|---|
+| **Storage & Compute** | Amazon S3, EBS, EFS, EC2, EMR, AWS Lambda |
+| **Data & Analytics** | AWS Glue, Amazon Athena, Amazon Redshift |
+| **Databases & Migration** | Amazon RDS, DynamoDB, AWS Database Migration Service (DMS) |
+| **Security & Identity** | AWS IAM |
+| **Messaging & Integration** | Amazon SNS, Amazon SQS, Amazon Kinesis |
+| **AI Services** | Amazon Bedrock |
+
+### 🤖 AI Data Engineering
+
+- Retrieval-Augmented Generation (RAG), Vector Search, LLM Integration, AI Agents, AI-powered Data Applications
+
+### 🐧 Linux, CLI & Developer Tools
+
+- **Linux & CLI:** Shell navigation, file operations, permissions, process and disk utilities, text processing, archiving, and remote access (`ssh`, `scp`, `curl`, `wget`)
+- **Version Control & CI/CD:** Git, GitHub, GitHub Actions
+
+---
+
 ## 💼 Professional Background
 
 Previously a **Solution Delivery Analyst at Deloitte USI**, working on Oracle Fusion Cloud Security & Controls across HCM and ERP/FSCM environments.
@@ -59,103 +173,6 @@ This experience gave me a strong foundation in **data security, access governanc
 
 **Bachelor of Technology (B.Tech) in Electrical Engineering**  
 National Institute of Technology, Silchar
-
----
-
-## 🛠️ Technical Skills
-
-### 💻 Programming & Querying
-
-- **Languages:** Python, SQL
-- **Big Data Processing:** Apache Spark, PySpark
-
-### 🐍 Python Ecosystem
-
-- **Data Processing:** Pandas, NumPy, PyArrow, Polar
-- **AWS & APIs:** Boto3, Requests
-- **Database & Testing:** SQLAlchemy, Pytest
-- **Standard Library:** JSON, CSV, OS, pathlib, datetime, logging
-
-### 🔄 Data Engineering & Distributed Systems
-
-- **Streaming & Messaging:** Apache Kafka, Amazon Kinesis
-- **Workflow Orchestration:** Apache Airflow, AWS Step Functions
-- **Databases:** AWS DynamoDB, MySql, MongoDB
-- **Engineering Concepts:** ETL/ELT Pipelines, Data Warehousing, Data Modeling
-
-### 🏞️ Lakehouse & Databricks
-
-- Databricks, Delta Lake, Unity Catalog
-
-### ☁️ AWS Cloud Services
-
-| Area | Services |
-|---|---|
-| **Storage & Compute** | Amazon S3, EBS, EFS, EC2, EMR, AWS Lambda |
-| **Data & Analytics** | AWS Glue, Amazon Athena, Amazon Redshift |
-| **Databases & Migration** | Amazon RDS, DynamoDB, AWS Database Migration Service (DMS) |
-| **Security & Identity** | AWS IAM |
-| **Messaging & Integration** | Amazon SNS, Amazon SQS, Amazon Kinesis, AWS Step Functions |
-| **AI Services** | Amazon Bedrock |
-
-### 🤖 AI Data Engineering
-
-- Retrieval-Augmented Generation (RAG), Vector Search, LLM Integration, AI Agents, AI-powered Data Applications
-
-### 🐧 Linux, CLI & Developer Tools
-
-- **Linux Commands:** `pwd`, `ls`, `cd`, `mkdir`, `touch`, `cp`, `mv`, `rm`, `cat`, `less`, `head`, `tail`, `grep`, `find`, `chmod`, `chown`, `ps`, `top`, `df`, `du`, `tar`, `curl`, `wget`, `ssh`, `scp`
-- **Version Control & CI/CD:** Git, GitHub, GitHub Actions
-
----
-
-## 🌟 Featured Projects
-
-### 📊 1. YouTube Trending Data Pipeline
-
-An automated AWS pipeline that ingests YouTube data and processes it through Bronze, Silver, and Gold layers, with data quality validation and orchestration.
-
-**Tech Stack:** Python · AWS Lambda · S3 · Glue · Athena · Step Functions · EventBridge
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rohanhrk/youtube-data-analysis-pipeline/main/architecture_diagrams/YouTube%20Trending%20Data%20Pipeline.png"
-       alt="YouTube Trending Data Pipeline Architecture"
-       width="850" />
-</p>
-
-[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohanhrk/youtube-data-analysis-pipeline)
-
----
-
-### 🏗️ 2. Uber Eats Marketplace Lakehouse
-
-A Databricks lakehouse implementing incremental ingestion, Medallion Architecture, SCD Type 2, data quality checks, and deployment workflows.
-
-**Tech Stack:** Databricks · PySpark · Delta Lake · Auto Loader · Unity Catalog
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rohanhrk/uber-eats-marketplace-lakehouse/main/docs/images/uber-eats-marketplace-lakehouse-architecture.png"
-       alt="Uber Eats Marketplace Lakehouse Architecture"
-       width="850" />
-</p>
-
-[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohanhrk/uber-eats-marketplace-lakehouse)
-
----
-
-### 🔍 3. Salesforce Renewal Risk Intelligence
-
-A Salesforce-to-Databricks data platform designed for customer analytics, renewal risk assessment, and AI-powered insights.
-
-**Tech Stack:** Salesforce · Databricks · Lakeflow · Unity Catalog · Python
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rohanhrk/salesforce-renewal-risk-dbx-pipeline/main/docs/assets/architecture-designer-handmade-sketch.png"
-       alt="Salesforce Renewal Risk Architecture"
-       width="850" />
-</p>
-
-[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohanhrk/salesforce-renewal-risk-dbx-pipeline)
 
 ---
 
