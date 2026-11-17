@@ -65,7 +65,7 @@
 
 - **Streaming & Messaging:** Apache Kafka, Amazon Kinesis
 - **Workflow Orchestration:** Apache Airflow, AWS Step Functions
-- **Databases:** MongoDB
+- **Databases:** AWS DynamoDB, MySql, MongoDB
 - **Engineering Concepts:** ETL/ELT Pipelines, Data Warehousing, Data Modeling
 
 ### 🏞️ Lakehouse & Databricks
