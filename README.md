@@ -31,7 +31,7 @@
 
 ## 🚀 About Me
 
-I'm focused on building **reliable, scalable data systems** and turning raw data into trusted, analytics-ready datasets. I enjoy working across the data engineering lifecycle — from ingestion and transformation to orchestration, data quality, and serving.
+I'm focused on building **reliable, scalable data systems** and turning raw data into trusted, analytics-ready datasets. I enjoy working across the data engineering lifecycle - from ingestion and transformation to orchestration, data quality, and serving.
 
 Through hands-on projects, I'm exploring how **AWS and Databricks** can be used to build cloud-native pipelines and modern lakehouse architectures. I value practical implementation, clear documentation, and understanding the engineering decisions behind each component.
 
@@ -51,7 +51,7 @@ My work focused on securing enterprise data and applications through:
 - 📊 **Reporting & Data Visibility:** Worked with BI/OTBI reports and catalog-folder permissions to help ensure users had appropriate access to business information.
 - 🔍 **Security Monitoring & Assurance:** Investigated access issues, supported root-cause analysis, and performed access reviews and control validation across enterprise environments.
 
-This experience gave me a strong foundation in **data security, access governance, data controls, and auditability** — areas that are essential when designing and operating trusted data platforms. I'm now building on that foundation through hands-on Cloud Data Engineering projects with AWS and Databricks.
+This experience gave me a strong foundation in **data security, access governance, data controls, and auditability** - areas that are essential when designing and operating trusted data platforms. I'm now building on that foundation through hands-on Cloud Data Engineering projects with AWS and Databricks.
 
 ---
 
@@ -163,16 +163,16 @@ A Salesforce-to-Databricks data platform designed for customer analytics, renewa
 
 A collection of notes and practical learning material that supports my Data Engineering journey.
 
-- 📖 **[Data Engineering Notes](https://github.com/rohanhrk/data-engineering-notes-2026)** — Organized notes, hands-on exercises, and interview preparation covering Python, SQL, big data, cloud platforms, and modern data engineering concepts.
+- 📖 **[Data Engineering Notes](https://github.com/rohanhrk/data-engineering-notes-2026)** - Organized notes, hands-on exercises, and interview preparation covering Python, SQL, big data, cloud platforms, and modern data engineering concepts.
 
 ## 🔭 Currently Exploring
 
 My current learning is centered on building dependable, production-oriented data systems:
 
-- ⚡ **Spark & Distributed Processing** — PySpark transformations, execution fundamentals, and performance optimization.
-- ☁️ **AWS Data Engineering** — Cloud-native ingestion, storage, transformation, orchestration, and monitoring patterns.
-- 🏞️ **Databricks & Lakehouse** — Delta Lake, medallion architecture, incremental processing, and data quality.
-- 🤖 **AI Data Engineering** — RAG pipelines, vector search, and integrating LLM capabilities into data applications.
+- ⚡ **Spark & Distributed Processing** - PySpark transformations, execution fundamentals, and performance optimization.
+- ☁️ **AWS Data Engineering** - Cloud-native ingestion, storage, transformation, orchestration, and monitoring patterns.
+- 🏞️ **Databricks & Lakehouse** - Delta Lake, medallion architecture, incremental processing, and data quality.
+- 🤖 **AI Data Engineering** - RAG pipelines, vector search, and integrating LLM capabilities into data applications.
 
 ---
 
