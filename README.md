@@ -51,11 +51,12 @@
 
 | Category | Technologies |
 |---|---|
-| 💻 Programming | Python, SQL |
-| ☁️ Cloud | AWS, S3, Lambda, Glue, Athena, Step Functions, EventBridge |
-| ⚡ Big Data | Apache Spark, PySpark |
-| 🏞️ Lakehouse | Databricks, Delta Lake, Unity Catalog, Lakeflow |
-| 🔩 Tools | Git, GitHub, GitHub Actions |
+| 💻 Core Technologies | Python, SQL, PySpark, Apache Spark |
+| 🔄 Data Engineering | Apache Kafka, Apache Airflow, MongoDB, Data Warehousing, Data Modeling, ETL/ELT Pipelines |
+| 🏞️ Lakehouse & Data Platforms | Databricks, Delta Lake, Unity Catalog |
+| ☁️ AWS & Cloud | AWS IAM, Amazon S3, Amazon EBS, Amazon EFS, Amazon EMR, AWS Lambda, Amazon Redshift, Amazon EC2, AWS Glue, Amazon RDS, Amazon Athena, Amazon SNS, Amazon SQS, Amazon Kinesis, AWS Step Functions, Amazon DynamoDB, AWS Database Migration Service (DMS), Amazon Bedrock |
+| 🤖 AI Data Engineering | Retrieval-Augmented Generation (RAG), Vector Search, LLM Integration, AI Agents, AI-powered Data Applications |
+| 🔩 Developer Tools | Git, GitHub, GitHub Actions |
 
 ---
 
