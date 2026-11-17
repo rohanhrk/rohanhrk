@@ -49,16 +49,48 @@
 
 ## 🛠️ Technical Skills
 
-| Category | Technologies & Tools |
+### 💻 Programming & Querying
+
+- **Languages:** Python, SQL
+- **Big Data Processing:** Apache Spark, PySpark
+
+### 🐍 Python Ecosystem
+
+- **Data Processing:** Pandas, NumPy, PyArrow
+- **AWS & APIs:** Boto3, Requests
+- **Database & Testing:** SQLAlchemy, Pytest
+- **Standard Library:** JSON, CSV, OS, pathlib, datetime, logging
+
+### 🔄 Data Engineering & Distributed Systems
+
+- **Streaming & Messaging:** Apache Kafka, Amazon Kinesis
+- **Workflow Orchestration:** Apache Airflow, AWS Step Functions
+- **Databases:** MongoDB
+- **Engineering Concepts:** ETL/ELT Pipelines, Data Warehousing, Data Modeling
+
+### 🏞️ Lakehouse & Databricks
+
+- Databricks, Delta Lake, Unity Catalog
+
+### ☁️ AWS Cloud Services
+
+| Area | Services |
 |---|---|
-| 💻 Core Technologies   |   Python, SQL, PySpark, Apache Spark |
-| 🐍 Python Libraries & Modules   |   Pandas, NumPy, Boto3, Requests, PyArrow, SQLAlchemy, Pytest; JSON, OS, pathlib, datetime, logging, CSV |
-| 🔄 Data Engineering | Apache Kafka, Apache Airflow, MongoDB, Data Warehousing, Data Modeling, ETL/ELT Pipelines |
-| 🏞️ Lakehouse & Data Platforms | Databricks, Delta Lake, Unity Catalog |
-| ☁️ AWS & Cloud | AWS IAM, Amazon S3, Amazon EBS, Amazon EFS, Amazon EMR, AWS Lambda, Amazon Redshift, Amazon EC2, AWS Glue, Amazon RDS, Amazon Athena, Amazon SNS, Amazon SQS, Amazon Kinesis, AWS Step Functions, Amazon DynamoDB, AWS Database Migration Service (DMS), Amazon Bedrock |
-| 🤖 AI Data Engineering | Retrieval-Augmented Generation (RAG), Vector Search, LLM Integration, AI Agents, AI-powered Data Applications |
-| 🐧 Linux & CLI | pwd, ls, cd, mkdir, touch, cp, mv, rm, cat, less, head, tail, grep, find, chmod, chown, ps, top, df, du, tar, curl, wget, ssh, scp |
-| 🔩 Developer Tools | Git, GitHub, GitHub Actions |
+| **Storage & Compute** | Amazon S3, EBS, EFS, EC2, EMR, AWS Lambda |
+| **Data & Analytics** | AWS Glue, Amazon Athena, Amazon Redshift |
+| **Databases & Migration** | Amazon RDS, DynamoDB, AWS Database Migration Service (DMS) |
+| **Security & Identity** | AWS IAM |
+| **Messaging & Integration** | Amazon SNS, Amazon SQS, Amazon Kinesis, AWS Step Functions |
+| **AI Services** | Amazon Bedrock |
+
+### 🤖 AI Data Engineering
+
+- Retrieval-Augmented Generation (RAG), Vector Search, LLM Integration, AI Agents, AI-powered Data Applications
+
+### 🐧 Linux, CLI & Developer Tools
+
+- **Linux Commands:** `pwd`, `ls`, `cd`, `mkdir`, `touch`, `cp`, `mv`, `rm`, `cat`, `less`, `head`, `tail`, `grep`, `find`, `chmod`, `chown`, `ps`, `top`, `df`, `du`, `tar`, `curl`, `wget`, `ssh`, `scp`
+- **Version Control & CI/CD:** Git, GitHub, GitHub Actions
 
 ---
 
