@@ -31,10 +31,14 @@
 
 ## 🚀 About Me
 
-- 🔧 Building end-to-end data engineering projects using AWS and Databricks.
-- 🐍 Working with Python, SQL, PySpark, and Apache Spark.
-- 🏗️ Exploring Medallion Architecture, incremental processing, and data modeling.
-- 🎯 Interested in scalable data platforms, data quality, and AI Data Engineering.
+I'm focused on building **reliable, scalable data systems** and turning raw data into trusted, analytics-ready datasets. I enjoy working across the data engineering lifecycle — from ingestion and transformation to orchestration, data quality, and serving.
+
+Through hands-on projects, I'm exploring how **AWS and Databricks** can be used to build cloud-native pipelines and modern lakehouse architectures. I value practical implementation, clear documentation, and understanding the engineering decisions behind each component.
+
+- 🏗️ **Building:** End-to-end data pipelines, medallion lakehouses, and data platforms.
+- ⚙️ **Engineering interests:** Distributed processing, streaming, workflow orchestration, and data reliability.
+- 🤖 **Exploring:** AI-powered data applications, RAG, and LLM-integrated data workflows.
+- 📈 **Growing through:** Hands-on projects, continuous learning, and consistent problem-solving practice.
 
 ## 💼 Professional Background
 
