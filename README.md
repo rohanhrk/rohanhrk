@@ -53,7 +53,12 @@ My work focused on securing enterprise data and applications through:
 
 This experience gave me a strong foundation in **data security, access governance, data controls, and auditability** — areas that are essential when designing and operating trusted data platforms. I'm now building on that foundation through hands-on Cloud Data Engineering projects with AWS and Databricks.
 
-🎓 **Education:** B.Tech in Electrical Engineering — National Institute of Technology, Silchar.
+---
+
+## 🎓 Education
+
+**Bachelor of Technology (B.Tech) in Electrical Engineering**  
+National Institute of Technology, Silchar
 
 ---
 
