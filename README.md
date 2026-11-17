@@ -159,37 +159,32 @@ A Salesforce-to-Databricks data platform designed for customer analytics, renewa
 
 ---
 
-## 📚 Learning & Current Focus
+## 📚 Engineering Resources
 
-Keeping my Data Engineering skills sharp through structured learning, hands-on implementation, and continuous project work.
+A collection of notes and practical learning material that supports my Data Engineering journey.
 
-**📖 Learning Resources**
+- 📖 **[Data Engineering Notes](https://github.com/rohanhrk/data-engineering-notes-2026)** — Organized notes, hands-on exercises, and interview preparation covering Python, SQL, big data, cloud platforms, and modern data engineering concepts.
 
-- [Data Engineering Notes](https://github.com/rohanhrk/data-engineering-notes-2026) — My technical notes, practical exercises, and interview preparation across core Data Engineering topics.
+## 🔭 Currently Exploring
 
-**🔭 Current Focus**
+My current learning is centered on building dependable, production-oriented data systems:
 
-- ⚡ **Distributed Data Processing:** Deepening my understanding of Apache Spark, PySpark, and performance fundamentals.
-- ☁️ **Cloud Data Engineering:** Building and improving AWS-based ingestion, transformation, and orchestration workflows.
-- 🏞️ **Lakehouse Engineering:** Exploring Databricks, Delta Lake, medallion architecture, and data quality practices.
-- 🤖 **AI Data Engineering:** Learning to integrate RAG, vector search, and LLM-powered capabilities into data applications.
+- ⚡ **Spark & Distributed Processing** — PySpark transformations, execution fundamentals, and performance optimization.
+- ☁️ **AWS Data Engineering** — Cloud-native ingestion, storage, transformation, orchestration, and monitoring patterns.
+- 🏞️ **Databricks & Lakehouse** — Delta Lake, medallion architecture, incremental processing, and data quality.
+- 🤖 **AI Data Engineering** — RAG pipelines, vector search, and integrating LLM capabilities into data applications.
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Connect & Coding Profiles
 
 <p align="center">
-  <a href="https://github.com/rohanhrk">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
   <a href="https://www.linkedin.com/in/rohan-hazarika/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>
-
-## 💻 Coding Profiles
-
-<p align="center">
+  <a href="https://github.com/rohanhrk">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
   <a href="https://leetcode.com/u/imRohan150/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
