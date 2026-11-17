@@ -68,7 +68,7 @@ A Salesforce-to-Databricks data platform designed for customer analytics, renewa
 
 ## 📚 Engineering Resources
 
-📖 [Data Engineering Notes]([https://github.com/rohanhrk/data-engineering-notes](https://github.com/rohanhrk/data-engineering-notes-2026)) — Technical notes, hands-on practice, and interview preparation.
+📖 [Data Engineering Notes](https://github.com/rohanhrk/data-engineering-notes-2026) — Technical notes, hands-on practice, and interview preparation.
 
 ## 🔭 Currently Exploring
 
