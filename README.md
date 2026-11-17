@@ -49,13 +49,15 @@
 
 ## 🛠️ Technical Skills
 
-| Category | Technologies |
+| Category | Technologies & Tools |
 |---|---|
-| 💻 Core Technologies | Python, SQL, PySpark, MongoDB |
-| 🔄 Data Engineering | Apache Spark, Apache Kafka, Apache Airflow, Data Warehousing, Data Modeling, ETL/ELT Pipelines |
+| 💻 Core Technologies | Python, SQL, PySpark, Apache Spark |
+| 🐍 Python Libraries & Modules | Pandas, NumPy, Boto3, Requests, PyArrow, SQLAlchemy, Pytest; JSON, OS, pathlib, datetime, logging, CSV |
+| 🔄 Data Engineering | Apache Kafka, Apache Airflow, MongoDB, Data Warehousing, Data Modeling, ETL/ELT Pipelines |
 | 🏞️ Lakehouse & Data Platforms | Databricks, Delta Lake, Unity Catalog |
 | ☁️ AWS & Cloud | AWS IAM, Amazon S3, Amazon EBS, Amazon EFS, Amazon EMR, AWS Lambda, Amazon Redshift, Amazon EC2, AWS Glue, Amazon RDS, Amazon Athena, Amazon SNS, Amazon SQS, Amazon Kinesis, AWS Step Functions, Amazon DynamoDB, AWS Database Migration Service (DMS), Amazon Bedrock |
 | 🤖 AI Data Engineering | Retrieval-Augmented Generation (RAG), Vector Search, LLM Integration, AI Agents, AI-powered Data Applications |
+| 🐧 Linux & CLI | pwd, ls, cd, mkdir, touch, cp, mv, rm, cat, less, head, tail, grep, find, chmod, chown, ps, top, df, du, tar, curl, wget, ssh, scp |
 | 🔩 Developer Tools | Git, GitHub, GitHub Actions |
 
 ---
