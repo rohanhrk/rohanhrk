@@ -29,6 +29,38 @@
 
 ---
 
+<div align="center">
+
+## 👋 Welcome to my GitHub!
+
+**Glad you're here!**
+
+Thanks for stopping by. This is where I document my Data Engineering journey, share hands-on projects, and experiment with modern data technologies.
+
+Explore my work across **AWS, Databricks, Python, SQL, and PySpark**.
+
+### 🚀 What You'll Find Here
+
+| ☁️ Cloud Data Engineering | 🏞️ Lakehouse Projects |
+|---|---|
+| AWS data pipelines | Databricks implementations |
+| ⚙️ Data Processing | 📚 Learning Resources |
+| Python, SQL & PySpark | Technical notes & guides |
+
+### 💡 Start Exploring
+
+Take a look at my **Featured Projects** below to see practical implementations, architecture diagrams, and engineering workflows.
+
+### 💬 Let's Connect and Grow Together!
+
+Feel free to explore my repositories, share your thoughts, or connect with me on LinkedIn.
+
+**Happy Exploring! 🚀**
+
+</div>
+
+---
+
 ## 🚀 About Me
 
 I'm focused on building **reliable, scalable data systems** and turning raw data into trusted, analytics-ready datasets. I enjoy working across the data engineering lifecycle - from ingestion and transformation to orchestration, data quality, and serving.
