@@ -254,7 +254,7 @@ My current learning is centered on building dependable, production-oriented data
 
 ---
 
-## 🤝 Connect & Coding Profiles
+<h1 align="center">Let's Connect</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rohan-hazarika/">
