@@ -149,6 +149,12 @@ An AI-powered retail intelligence platform built on Databricks, combining RAG, v
 - SQL analytics for structured retail data insights.
 - AI application combining retrieval, analytics, and conversational memory capabilities.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rohanhrk/productpulse-ai/main/diagrams/productpulse_high_level_architecture_imagegen.png"
+       alt="ProductPulse AI High-Level Architecture"
+       width="760" />
+</p>
+
 [![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohanhrk/productpulse-ai)
 
 ---
