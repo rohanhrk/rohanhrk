@@ -1,30 +1,18 @@
 
-<p align="center">
-  <img src="./assets/developer-coding.gif"
-       alt="Developer coding animation"
-       width="850" />
-</p>
-
 <h1 align="center">👋 Hi, I'm Rohan Hazarika</h1>
 
 <h3 align="center">Data Engineer | AWS | Databricks</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+Cloud+Data+Pipelines;AWS+%7C+Databricks+%7C+PySpark;Exploring+Modern+Data+Architectures"
-       alt="Typing animation" />
+  Building cloud data pipelines, distributed processing solutions, and modern lakehouse architectures.
 </p>
 
 <p align="center">
-  Building cloud data pipelines, distributed processing solutions,
-  and modern lakehouse architectures.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
 </p>
 
 ---
@@ -91,7 +79,7 @@ An automated AWS pipeline that ingests YouTube data and processes it through Bro
        width="760" />
 </p>
 
-[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohanhrk/youtube-data-analysis-pipeline)
+[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=flat&logo=github&logoColor=white)](https://github.com/rohanhrk/youtube-data-analysis-pipeline)
 
 ---
 
@@ -112,7 +100,7 @@ A Databricks lakehouse implementing incremental ingestion, Medallion Architectur
        width="760" />
 </p>
 
-[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohanhrk/uber-eats-marketplace-lakehouse)
+[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=flat&logo=github&logoColor=white)](https://github.com/rohanhrk/uber-eats-marketplace-lakehouse)
 
 ---
 
@@ -133,7 +121,7 @@ A Salesforce-to-Databricks data platform designed for customer analytics, renewa
        width="760" />
 </p>
 
-[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohanhrk/salesforce-renewal-risk-dbx-pipeline)
+[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=flat&logo=github&logoColor=white)](https://github.com/rohanhrk/salesforce-renewal-risk-dbx-pipeline)
 
 ---
 
@@ -155,7 +143,7 @@ An AI-powered retail intelligence platform built on Databricks, combining RAG, v
        width="760" />
 </p>
 
-[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohanhrk/productpulse-ai)
+[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=flat&logo=github&logoColor=white)](https://github.com/rohanhrk/productpulse-ai)
 
 ---
 
@@ -270,16 +258,16 @@ My current learning is centered on building dependable, production-oriented data
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rohan-hazarika/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/rohanhrk">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://leetcode.com/u/imRohan150/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   <a href="https://www.geeksforgeeks.org/profile/rohanhrk1999?tab=activity">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
   </a>
 </p>
 
