@@ -137,6 +137,22 @@ A Salesforce-to-Databricks data platform designed for customer analytics, renewa
 
 ---
 
+### 🤖 4. ProductPulse AI — Retail Intelligence & Support Copilot
+
+An AI-powered retail intelligence platform built on Databricks, combining RAG, vector retrieval, SQL analytics, and LLM-powered interactions to deliver contextual product insights.
+
+**Tech Stack:** Databricks · Python · Streamlit · Lakebase · Vector Search · SQL · RAG · LLMs
+
+**Engineering Highlights**
+- RAG-powered retrieval for contextual product information.
+- Vector-based retrieval using Databricks Lakebase.
+- SQL analytics for structured retail data insights.
+- AI application combining retrieval, analytics, and conversational memory capabilities.
+
+[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohanhrk/productpulse-ai)
+
+---
+
 ## 🛠️ Technical Skills
 
 Technologies and tools I use in projects or am actively developing proficiency in:
