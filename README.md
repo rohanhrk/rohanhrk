@@ -247,6 +247,25 @@ My current learning is centered on building dependable, production-oriented data
 
 ---
 
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170"
+       src="https://github-readme-stats.vercel.app/api?username=rohanhrk&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+       alt="Rohan's GitHub statistics" />
+  <img height="170"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanhrk&layout=compact&theme=tokyonight&hide_border=true"
+       alt="Most used programming languages" />
+</p>
+
+<p align="center">
+  <img
+       src="https://streak-stats.demolab.com?user=rohanhrk&theme=tokyonight&hide_border=true"
+       alt="GitHub contribution streak" />
+</p>
+
+---
+
 ## 🤝 Connect & Coding Profiles
 
 <p align="center">
