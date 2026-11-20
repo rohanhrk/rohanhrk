@@ -1,5 +1,5 @@
 
-<h1 align="center">👋 Hi, I'm Rohan Hazarika</h1>
+<h1 align="center">Hi, I'm Rohan Hazarika</h1>
 
 <h3 align="center">Data Engineer | AWS | Databricks</h3>
 
@@ -19,7 +19,7 @@
 
 <div align="center">
 
-## 👋 Welcome to my GitHub!
+## Welcome to my GitHub
 
 **Glad you're here!**
 
@@ -27,42 +27,42 @@ Thanks for stopping by. This is where I document my Data Engineering journey, sh
 
 Explore my work across **AWS, Databricks, Python, SQL, and PySpark**.
 
-### 🚀 What You'll Find Here
+### What You'll Find Here
 
-| ☁️ Cloud Data Engineering | 🏞️ Lakehouse Projects |
+| Cloud Data Engineering | Lakehouse Projects |
 |---|---|
 | AWS data pipelines | Databricks implementations |
-| ⚙️ Data Processing | 📚 Learning Resources |
+| Data Processing | Learning Resources |
 | Python, SQL & PySpark | Technical notes & guides |
 
-### 💡 Start Exploring
+### Start Exploring
 
 Take a look at my **Featured Projects** below to see practical implementations, architecture diagrams, and engineering workflows.
 
-### 💬 Let's Connect and Grow Together!
+### Let's Connect and Grow Together
 
 Feel free to explore my repositories, share your thoughts, or connect with me on LinkedIn.
 
-**Happy Exploring! 🚀**
+**Happy exploring!**
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm focused on building **reliable, scalable data systems** and turning raw data into trusted, analytics-ready datasets. I enjoy working across the data engineering lifecycle - from ingestion and transformation to orchestration, data quality, and serving.
 
 Through hands-on projects, I'm exploring how **AWS and Databricks** can be used to build cloud-native pipelines and modern lakehouse architectures. I value practical implementation, clear documentation, and understanding the engineering decisions behind each component.
 
-- 🏗️ **Building:** End-to-end data pipelines, medallion lakehouses, and data platforms.
-- ⚙️ **Engineering interests:** Distributed processing, streaming, workflow orchestration, and data reliability.
-- 🤖 **Exploring:** AI-powered data applications, RAG, and LLM-integrated data workflows.
-- 📈 **Growing through:** Hands-on projects, continuous learning, and consistent problem-solving practice.
+- **Building:** End-to-end data pipelines, medallion lakehouses, and data platforms.
+- **Engineering interests:** Distributed processing, streaming, workflow orchestration, and data reliability.
+- **Exploring:** AI-powered data applications, RAG, and LLM-integrated data workflows.
+- **Growing through:** Hands-on projects, continuous learning, and consistent problem-solving practice.
 
-## 🌟 Featured Projects
+## Featured Projects
 
-### 📊 1. YouTube Trending Data Pipeline
+### 1. YouTube Trending Data Pipeline
 
 An automated AWS pipeline that ingests YouTube data and processes it through Bronze, Silver, and Gold layers, with data quality validation and orchestration.
 
@@ -83,7 +83,7 @@ An automated AWS pipeline that ingests YouTube data and processes it through Bro
 
 ---
 
-### 🏗️ 2. Uber Eats Marketplace Lakehouse
+### 2. Uber Eats Marketplace Lakehouse
 
 A Databricks lakehouse implementing incremental ingestion, Medallion Architecture, SCD Type 2, data quality checks, and deployment workflows.
 
@@ -104,7 +104,7 @@ A Databricks lakehouse implementing incremental ingestion, Medallion Architectur
 
 ---
 
-### 🔍 3. Salesforce Renewal Risk Intelligence
+### 3. Salesforce Renewal Risk Intelligence
 
 A Salesforce-to-Databricks data platform designed for customer analytics, renewal risk assessment, and AI-powered insights.
 
@@ -125,7 +125,7 @@ A Salesforce-to-Databricks data platform designed for customer analytics, renewa
 
 ---
 
-### 🤖 4. ProductPulse AI — Retail Intelligence & Support Copilot
+### 4. ProductPulse AI — Retail Intelligence & Support Copilot
 
 An AI-powered retail intelligence platform built on Databricks, combining RAG, vector retrieval, SQL analytics, and LLM-powered interactions to deliver contextual product insights.
 
@@ -147,34 +147,34 @@ An AI-powered retail intelligence platform built on Databricks, combining RAG, v
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 Technologies and tools I use in projects or am actively developing proficiency in:
 
-### 💻 Programming & Querying
+### Programming & Querying
 
 - **Languages:** Python, SQL
 - **Big Data Processing:** Apache Spark, PySpark
 
-### 🐍 Python Ecosystem
+### Python Ecosystem
 
 - **Data Processing:** Pandas, NumPy, PyArrow, Polars
 - **AWS & APIs:** Boto3, Requests
 - **Database & Testing:** SQLAlchemy, Pytest
 - **Standard Library:** JSON, CSV, OS, pathlib, datetime, logging
 
-### 🔄 Data Engineering & Distributed Systems
+### Data Engineering & Distributed Systems
 
 - **Streaming & Messaging:** Apache Kafka, Amazon Kinesis
 - **Workflow Orchestration:** Apache Airflow, AWS Step Functions
 - **Databases:** Amazon DynamoDB, MySQL, MongoDB
 - **Engineering Concepts:** ETL/ELT Pipelines, Data Warehousing, Data Modeling
 
-### 🏞️ Lakehouse & Databricks
+### Lakehouse & Databricks
 
 - Databricks, Delta Lake, Unity Catalog
 
-### ☁️ AWS Cloud Services
+### AWS Cloud Services
 
 | Area | Services |
 |---|---|
@@ -185,57 +185,57 @@ Technologies and tools I use in projects or am actively developing proficiency i
 | **Messaging & Integration** | Amazon SNS, Amazon SQS, Amazon Kinesis |
 | **AI Services** | Amazon Bedrock |
 
-### 🤖 AI Data Engineering
+### AI Data Engineering
 
 - Retrieval-Augmented Generation (RAG), Vector Search, LLM Integration, AI Agents, AI-powered Data Applications
 
-### 🐧 Linux, CLI & Developer Tools
+### Linux, CLI & Developer Tools
 
 - **Linux & CLI:** Shell navigation, file operations, permissions, process and disk utilities, text processing, archiving, and remote access (`ssh`, `scp`, `curl`, `wget`)
 - **Version Control & CI/CD:** Git, GitHub, GitHub Actions
 
 ---
 
-## 💼 Professional Background
+## Professional Background
 
 Previously a **Solution Delivery Analyst at Deloitte USI**, working on Oracle Fusion Cloud Security & Controls across HCM and ERP/FSCM environments.
 
 My work focused on securing enterprise data and applications through:
 
-- 🔐 **Data Access & RBAC:** Configured and supported job, abstract, and data roles; role hierarchies; and access provisioning and validation.
-- 🛡️ **Data Governance & Controls:** Supported segregation-of-duties (SoD) analysis, sensitive-access reviews, access certification, and audit readiness.
-- 📊 **Reporting & Data Visibility:** Worked with BI/OTBI reports and catalog-folder permissions to help ensure users had appropriate access to business information.
-- 🔍 **Security Monitoring & Assurance:** Investigated access issues, supported root-cause analysis, and performed access reviews and control validation across enterprise environments.
+- **Data Access & RBAC:** Configured and supported job, abstract, and data roles; role hierarchies; and access provisioning and validation.
+- **Data Governance & Controls:** Supported segregation-of-duties (SoD) analysis, sensitive-access reviews, access certification, and audit readiness.
+- **Reporting & Data Visibility:** Worked with BI/OTBI reports and catalog-folder permissions to help ensure users had appropriate access to business information.
+- **Security Monitoring & Assurance:** Investigated access issues, supported root-cause analysis, and performed access reviews and control validation across enterprise environments.
 
 This experience gave me a strong foundation in **data security, access governance, data controls, and auditability** - areas that are essential when designing and operating trusted data platforms. I'm now building on that foundation through hands-on Cloud Data Engineering projects with AWS and Databricks.
 
 ---
 
-## 🎓 Education
+## Education
 
 **Bachelor of Technology (B.Tech) in Electrical Engineering**  
 National Institute of Technology, Silchar
 
 ---
 
-## 📚 Engineering Resources
+## Engineering Resources
 
 A collection of notes and practical learning material that supports my Data Engineering journey.
 
-- 📖 **[Data Engineering Notes](https://github.com/rohanhrk/data-engineering-notes-2026)** - Organized notes, hands-on exercises, and interview preparation covering Python, SQL, big data, cloud platforms, and modern data engineering concepts.
+- **[Data Engineering Notes](https://github.com/rohanhrk/data-engineering-notes-2026)** - Organized notes, hands-on exercises, and interview preparation covering Python, SQL, big data, cloud platforms, and modern data engineering concepts.
 
-## 🔭 Currently Exploring
+## Currently Exploring
 
 My current learning is centered on building dependable, production-oriented data systems:
 
-- ⚡ **Spark & Distributed Processing** - PySpark transformations, execution fundamentals, and performance optimization.
-- ☁️ **AWS Data Engineering** - Cloud-native ingestion, storage, transformation, orchestration, and monitoring patterns.
-- 🏞️ **Databricks & Lakehouse** - Delta Lake, medallion architecture, incremental processing, and data quality.
-- 🤖 **AI Data Engineering** - RAG pipelines, vector search, and integrating LLM capabilities into data applications.
+- **Spark & Distributed Processing** - PySpark transformations, execution fundamentals, and performance optimization.
+- **AWS Data Engineering** - Cloud-native ingestion, storage, transformation, orchestration, and monitoring patterns.
+- **Databricks & Lakehouse** - Delta Lake, medallion architecture, incremental processing, and data quality.
+- **AI Data Engineering** - RAG pipelines, vector search, and integrating LLM capabilities into data applications.
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
   <img height="170"
