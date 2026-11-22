@@ -262,6 +262,13 @@ My current learning is centered on building dependable, production-oriented data
   </a>
 </p>
 
+<p align="center">
+  <a href="https://leetcode.com/u/imRohan150/">
+    <img src="https://leetcode-git-card.vercel.app/api/card?username=imRohan150&difficulty=true&activity=true&skills=false&badges=true&submissions=true&beats=false&rank=false"
+         alt="LeetCode badges and recent accepted submissions for imRohan150" />
+  </a>
+</p>
+
 ---
 
 <h1 align="center">Let's Connect</h1>
