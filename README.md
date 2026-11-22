@@ -252,6 +252,16 @@ My current learning is centered on building dependable, production-oriented data
        alt="GitHub contribution streak" />
 </p>
 
+
+## LeetCode Statistics
+
+<p align="center">
+  <a href="https://leetcode.com/u/imRohan150/">
+    <img src="https://leetcard.jacoblin.cool/imRohan150?theme=dark"
+         alt="LeetCode statistics for imRohan150" />
+  </a>
+</p>
+
 ---
 
 <h1 align="center">Let's Connect</h1>
