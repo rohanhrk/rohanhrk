@@ -262,12 +262,22 @@ My current learning is centered on building dependable, production-oriented data
   </a>
 </p>
 
+### Earned Badges
+
 <p align="center">
-  <a href="https://leetcode.com/u/imRohan150/">
-    <img src="https://leetcode-git-card.vercel.app/api/card?username=imRohan150&difficulty=true&activity=false&skills=false&badges=true&submissions=false&beats=false&rank=false"
-         alt="LeetCode solved statistics and earned badges for imRohan150" />
-  </a>
+  <img src="https://img.shields.io/badge/500_Days-Submission_Days-30363D?style=flat&logo=leetcode&logoColor=FFA116" alt="500 Days Submission Days badge" />
+  <img src="https://img.shields.io/badge/365_Days-Submission_Days-30363D?style=flat&logo=leetcode&logoColor=FFA116" alt="365 Days Submission Days badge" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/50_Days-Annual_Medal-30363D?style=flat&logo=leetcode&logoColor=FFA116" alt="50 Days Annual Medal badge, awarded 2026-09-10" />
+  <img src="https://img.shields.io/badge/100_Days-Annual_Medal-30363D?style=flat&logo=leetcode&logoColor=FFA116" alt="100 Days Annual Medal badge, awarded 2025-11-23" />
+  <img src="https://img.shields.io/badge/50_Days-Annual_Medal-30363D?style=flat&logo=leetcode&logoColor=FFA116" alt="50 Days Annual Medal badge, awarded 2025-04-14" />
+  <img src="https://img.shields.io/badge/50_Days-Annual_Medal-30363D?style=flat&logo=leetcode&logoColor=FFA116" alt="50 Days Annual Medal badge, awarded 2023-12-19" />
+  <img src="https://img.shields.io/badge/100_Days-Annual_Medal-30363D?style=flat&logo=leetcode&logoColor=FFA116" alt="100 Days Annual Medal badge, awarded 2023-01-01" />
+</p>
+
+<sub>Badges currently listed: 7 of 13. More will be added as the remaining badges are shared.</sub>
 
 ---
 
