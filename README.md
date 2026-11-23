@@ -258,14 +258,14 @@ My current learning is centered on building dependable, production-oriented data
 <p align="center">
   <a href="https://leetcode.com/u/imRohan150/">
     <img src="https://leetcard.jacoblin.cool/imRohan150?theme=dark"
-         alt="LeetCode statistics for imRohan150" />
+         alt="LeetCode problems solved statistics for imRohan150" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://leetcode.com/u/imRohan150/">
-    <img src="https://leetcode-git-card.vercel.app/api/card?username=imRohan150&difficulty=true&activity=true&skills=false&badges=true&submissions=true&beats=false&rank=false"
-         alt="LeetCode badges and recent accepted submissions for imRohan150" />
+    <img src="https://leetcode-git-card.vercel.app/api/card?username=imRohan150&difficulty=true&activity=false&skills=false&badges=true&submissions=false&beats=false&rank=false"
+         alt="LeetCode solved statistics and earned badges for imRohan150" />
   </a>
 </p>
 
