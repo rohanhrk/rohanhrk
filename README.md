@@ -1,7 +1,16 @@
 
 <h1 align="center">Hi, I'm Rohan Hazarika</h1>
 
-<h3 align="center">Data Engineer | AWS | Databricks</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=720&lines=Data+Engineer+%7C+AWS+%7C+Databricks;Building+Cloud+Data+Pipelines;Designing+Modern+Lakehouse+Solutions;Python+%7C+SQL+%7C+PySpark"
+       alt="Animated introduction: Data Engineer, AWS and Databricks" />
+</p>
+
+<p align="center">
+  <img src="./assets/developer-coding.gif"
+       alt="Animated developer coding at a terminal"
+       width="420" />
+</p>
 
 <p align="center">
   Building cloud data pipelines, distributed processing solutions, and modern lakehouse architectures.
@@ -234,6 +243,16 @@ My current learning is centered on building dependable, production-oriented data
 - **AI Data Engineering** - RAG pipelines, vector search, and integrating LLM capabilities into data applications.
 
 ---
+
+## GitHub Contribution Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohanhrk/rohanhrk/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rohanhrk/rohanhrk/output/github-snake.svg" />
+    <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/rohanhrk/rohanhrk/output/github-snake.svg" />
+  </picture>
+</p>
 
 ## GitHub Statistics
 
