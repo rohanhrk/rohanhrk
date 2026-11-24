@@ -54,10 +54,7 @@ Feel free to explore my repositories, share your thoughts, or connect with me on
 **Happy exploring!**
 
 </div>
-
-
-<div align="center">
-<h2 align="center">👨‍💻 About Me</h2>
+<h2 align="left">👨‍💻 About Me</h2>
 
 I'm focused on building **reliable, scalable data systems** and turning raw data into trusted, analytics-ready datasets. I enjoy working across the data engineering lifecycle - from ingestion and transformation to orchestration, data quality, and serving.
 
@@ -68,11 +65,7 @@ Through hands-on projects, I'm exploring how **AWS and Databricks** can be used 
 - **Exploring:** AI-powered data applications, RAG, and LLM-integrated data workflows.
 - **Growing through:** Hands-on projects, continuous learning, and consistent problem-solving practice.
 
-
-</div>
-
-<div align="center">
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="left">🚀 Featured Projects</h2>
 
 <h3 align="left">📊 1. YouTube Trending Data Pipeline</h3>
 
@@ -154,11 +147,7 @@ An AI-powered retail intelligence platform built on Databricks, combining RAG, v
 
 [![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=flat&logo=github&logoColor=white)](https://github.com/rohanhrk/productpulse-ai)
 
-
-</div>
-
-<div align="center">
-<h2 align="center">🛠️ Technical Skills</h2>
+<h2 align="left">🛠️ Technical Skills</h2>
 
 Technologies and tools I use in projects or am actively developing proficiency in:
 
@@ -205,11 +194,7 @@ Technologies and tools I use in projects or am actively developing proficiency i
 - **Linux & CLI:** Shell navigation, file operations, permissions, process and disk utilities, text processing, archiving, and remote access (`ssh`, `scp`, `curl`, `wget`)
 - **Version Control & CI/CD:** Git, GitHub, GitHub Actions
 
-
-</div>
-
-<div align="center">
-<h2 align="center">💼 Professional Background</h2>
+<h2 align="left">💼 Professional Background</h2>
 
 Previously a **Solution Delivery Analyst at Deloitte USI**, working on Oracle Fusion Cloud Security & Controls across HCM and ERP/FSCM environments.
 
@@ -222,29 +207,18 @@ My work focused on securing enterprise data and applications through:
 
 This experience gave me a strong foundation in **data security, access governance, data controls, and auditability** - areas that are essential when designing and operating trusted data platforms. I'm now building on that foundation through hands-on Cloud Data Engineering projects with AWS and Databricks.
 
-
-</div>
-
-<div align="center">
-<h2 align="center">🎓 Education</h2>
+<h2 align="left">🎓 Education</h2>
 
 **Bachelor of Technology (B.Tech) in Electrical Engineering**  
 National Institute of Technology, Silchar
 
-
-</div>
-
-<div align="center">
-<h2 align="center">📚 Engineering Resources</h2>
+<h2 align="left">📚 Engineering Resources</h2>
 
 A collection of notes and practical learning material that supports my Data Engineering journey.
 
 - **[Data Engineering Notes](https://github.com/rohanhrk/data-engineering-notes-2026)** - Organized notes, hands-on exercises, and interview preparation covering Python, SQL, big data, cloud platforms, and modern data engineering concepts.
 
-</div>
-
-<div align="center">
-<h2 align="center">🔭 Currently Exploring</h2>
+<h2 align="left">🔭 Currently Exploring</h2>
 
 My current learning is centered on building dependable, production-oriented data systems:
 
@@ -253,11 +227,7 @@ My current learning is centered on building dependable, production-oriented data
 - **Databricks & Lakehouse** - Delta Lake, medallion architecture, incremental processing, and data quality.
 - **AI Data Engineering** - RAG pipelines, vector search, and integrating LLM capabilities into data applications.
 
-
-</div>
-
-<div align="center">
-<h2 align="center">🐍 GitHub Contribution Activity</h2>
+<h2 align="left">🐍 GitHub Contribution Activity</h2>
 
 <p align="center">
   <picture>
@@ -267,10 +237,7 @@ My current learning is centered on building dependable, production-oriented data
   </picture>
 </p>
 
-</div>
-
-<div align="center">
-<h2 align="center">📈 GitHub Statistics</h2>
+<h2 align="left">📈 GitHub Statistics</h2>
 
 <p align="center">
   <img height="170"
@@ -287,11 +254,7 @@ My current learning is centered on building dependable, production-oriented data
        alt="GitHub contribution streak" />
 </p>
 
-
-</div>
-
-<div align="center">
-<h2 align="center">🧩 LeetCode Statistics</h2>
+<h2 align="left">🧩 LeetCode Statistics</h2>
 
 <p align="center">
   <a href="https://leetcode.com/u/imRohan150/">
@@ -300,10 +263,7 @@ My current learning is centered on building dependable, production-oriented data
   </a>
 </p>
 
-
-</div>
-
-<h1 align="center">Let's Connect</h1>
+<h2 align="left">🤝 Let's Connect</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rohan-hazarika/">
