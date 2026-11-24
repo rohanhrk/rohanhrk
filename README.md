@@ -28,7 +28,7 @@
 
 <div align="center">
 
-## Welcome to my GitHub
+<h2 align="center">👋 Welcome to my GitHub</h2>
 
 **Glad you're here!**
 
@@ -36,7 +36,7 @@ Thanks for stopping by. This is where I document my Data Engineering journey, sh
 
 Explore my work across **AWS, Databricks, Python, SQL, and PySpark**.
 
-### What You'll Find Here
+<h3 align="center">🧭 What You'll Find Here</h3>
 
 | Cloud Data Engineering | Lakehouse Projects |
 |---|---|
@@ -44,11 +44,11 @@ Explore my work across **AWS, Databricks, Python, SQL, and PySpark**.
 | Data Processing | Learning Resources |
 | Python, SQL & PySpark | Technical notes & guides |
 
-### Start Exploring
+<h3 align="center">🚀 Start Exploring</h3>
 
 Take a look at my **Featured Projects** below to see practical implementations, architecture diagrams, and engineering workflows.
 
-### Let's Connect and Grow Together
+<h3 align="center">🤝 Let's Connect and Grow Together</h3>
 
 Feel free to explore my repositories, share your thoughts, or connect with me on LinkedIn.
 
@@ -58,7 +58,7 @@ Feel free to explore my repositories, share your thoughts, or connect with me on
 
 ---
 
-## About Me
+<h2 align="center">👨‍💻 About Me</h2>
 
 I'm focused on building **reliable, scalable data systems** and turning raw data into trusted, analytics-ready datasets. I enjoy working across the data engineering lifecycle - from ingestion and transformation to orchestration, data quality, and serving.
 
@@ -69,9 +69,9 @@ Through hands-on projects, I'm exploring how **AWS and Databricks** can be used 
 - **Exploring:** AI-powered data applications, RAG, and LLM-integrated data workflows.
 - **Growing through:** Hands-on projects, continuous learning, and consistent problem-solving practice.
 
-## Featured Projects
+<h2 align="center">🚀 Featured Projects</h2>
 
-### 1. YouTube Trending Data Pipeline
+<h3 align="center">📊 1. YouTube Trending Data Pipeline</h3>
 
 An automated AWS pipeline that ingests YouTube data and processes it through Bronze, Silver, and Gold layers, with data quality validation and orchestration.
 
@@ -92,7 +92,7 @@ An automated AWS pipeline that ingests YouTube data and processes it through Bro
 
 ---
 
-### 2. Uber Eats Marketplace Lakehouse
+<h3 align="center">🏞️ 2. Uber Eats Marketplace Lakehouse</h3>
 
 A Databricks lakehouse implementing incremental ingestion, Medallion Architecture, SCD Type 2, data quality checks, and deployment workflows.
 
@@ -113,7 +113,7 @@ A Databricks lakehouse implementing incremental ingestion, Medallion Architectur
 
 ---
 
-### 3. Salesforce Renewal Risk Intelligence
+<h3 align="center">🔎 3. Salesforce Renewal Risk Intelligence</h3>
 
 A Salesforce-to-Databricks data platform designed for customer analytics, renewal risk assessment, and AI-powered insights.
 
@@ -134,7 +134,7 @@ A Salesforce-to-Databricks data platform designed for customer analytics, renewa
 
 ---
 
-### 4. ProductPulse AI — Retail Intelligence & Support Copilot
+<h3 align="center">🤖 4. ProductPulse AI — Retail Intelligence & Support Copilot</h3>
 
 An AI-powered retail intelligence platform built on Databricks, combining RAG, vector retrieval, SQL analytics, and LLM-powered interactions to deliver contextual product insights.
 
@@ -156,34 +156,34 @@ An AI-powered retail intelligence platform built on Databricks, combining RAG, v
 
 ---
 
-## Technical Skills
+<h2 align="center">🛠️ Technical Skills</h2>
 
 Technologies and tools I use in projects or am actively developing proficiency in:
 
-### Programming & Querying
+<h3 align="center">💻 Programming & Querying</h3>
 
 - **Languages:** Python, SQL
 - **Big Data Processing:** Apache Spark, PySpark
 
-### Python Ecosystem
+<h3 align="center">🐍 Python Ecosystem</h3>
 
 - **Data Processing:** Pandas, NumPy, PyArrow, Polars
 - **AWS & APIs:** Boto3, Requests
 - **Database & Testing:** SQLAlchemy, Pytest
 - **Standard Library:** JSON, CSV, OS, pathlib, datetime, logging
 
-### Data Engineering & Distributed Systems
+<h3 align="center">⚙️ Data Engineering & Distributed Systems</h3>
 
 - **Streaming & Messaging:** Apache Kafka, Amazon Kinesis
 - **Workflow Orchestration:** Apache Airflow, AWS Step Functions
 - **Databases:** Amazon DynamoDB, MySQL, MongoDB
 - **Engineering Concepts:** ETL/ELT Pipelines, Data Warehousing, Data Modeling
 
-### Lakehouse & Databricks
+<h3 align="center">🏗️ Lakehouse & Databricks</h3>
 
 - Databricks, Delta Lake, Unity Catalog
 
-### AWS Cloud Services
+<h3 align="center">☁️ AWS Cloud Services</h3>
 
 | Area | Services |
 |---|---|
@@ -194,18 +194,18 @@ Technologies and tools I use in projects or am actively developing proficiency i
 | **Messaging & Integration** | Amazon SNS, Amazon SQS, Amazon Kinesis |
 | **AI Services** | Amazon Bedrock |
 
-### AI Data Engineering
+<h3 align="center">🧠 AI Data Engineering</h3>
 
 - Retrieval-Augmented Generation (RAG), Vector Search, LLM Integration, AI Agents, AI-powered Data Applications
 
-### Linux, CLI & Developer Tools
+<h3 align="center">⌨️ Linux, CLI & Developer Tools</h3>
 
 - **Linux & CLI:** Shell navigation, file operations, permissions, process and disk utilities, text processing, archiving, and remote access (`ssh`, `scp`, `curl`, `wget`)
 - **Version Control & CI/CD:** Git, GitHub, GitHub Actions
 
 ---
 
-## Professional Background
+<h2 align="center">💼 Professional Background</h2>
 
 Previously a **Solution Delivery Analyst at Deloitte USI**, working on Oracle Fusion Cloud Security & Controls across HCM and ERP/FSCM environments.
 
@@ -220,20 +220,20 @@ This experience gave me a strong foundation in **data security, access governanc
 
 ---
 
-## Education
+<h2 align="center">🎓 Education</h2>
 
 **Bachelor of Technology (B.Tech) in Electrical Engineering**  
 National Institute of Technology, Silchar
 
 ---
 
-## Engineering Resources
+<h2 align="center">📚 Engineering Resources</h2>
 
 A collection of notes and practical learning material that supports my Data Engineering journey.
 
 - **[Data Engineering Notes](https://github.com/rohanhrk/data-engineering-notes-2026)** - Organized notes, hands-on exercises, and interview preparation covering Python, SQL, big data, cloud platforms, and modern data engineering concepts.
 
-## Currently Exploring
+<h2 align="center">🔭 Currently Exploring</h2>
 
 My current learning is centered on building dependable, production-oriented data systems:
 
@@ -244,7 +244,7 @@ My current learning is centered on building dependable, production-oriented data
 
 ---
 
-## GitHub Contribution Activity
+<h2 align="center">🐍 GitHub Contribution Activity</h2>
 
 <p align="center">
   <picture>
@@ -254,7 +254,7 @@ My current learning is centered on building dependable, production-oriented data
   </picture>
 </p>
 
-## GitHub Statistics
+<h2 align="center">📈 GitHub Statistics</h2>
 
 <p align="center">
   <img height="170"
@@ -272,7 +272,7 @@ My current learning is centered on building dependable, production-oriented data
 </p>
 
 
-## LeetCode Statistics
+<h2 align="center">🧩 LeetCode Statistics</h2>
 
 <p align="center">
   <a href="https://leetcode.com/u/imRohan150/">
