@@ -36,7 +36,7 @@ Thanks for stopping by. This is where I document my Data Engineering journey, sh
 
 Explore my work across **AWS, Databricks, Python, SQL, and PySpark**.
 
-<h3 align="center">🧭 What You'll Find Here</h3>
+<h3 align="left">🧭 What You'll Find Here</h3>
 
 | Cloud Data Engineering | Lakehouse Projects |
 |---|---|
@@ -44,11 +44,11 @@ Explore my work across **AWS, Databricks, Python, SQL, and PySpark**.
 | Data Processing | Learning Resources |
 | Python, SQL & PySpark | Technical notes & guides |
 
-<h3 align="center">🚀 Start Exploring</h3>
+<h3 align="left">🚀 Start Exploring</h3>
 
 Take a look at my **Featured Projects** below to see practical implementations, architecture diagrams, and engineering workflows.
 
-<h3 align="center">🤝 Let's Connect and Grow Together</h3>
+<h3 align="left">🤝 Let's Connect and Grow Together</h3>
 
 Feel free to explore my repositories, share your thoughts, or connect with me on LinkedIn.
 
@@ -71,7 +71,7 @@ Through hands-on projects, I'm exploring how **AWS and Databricks** can be used 
 
 <h2 align="center">🚀 Featured Projects</h2>
 
-<h3 align="center">📊 1. YouTube Trending Data Pipeline</h3>
+<h3 align="left">📊 1. YouTube Trending Data Pipeline</h3>
 
 An automated AWS pipeline that ingests YouTube data and processes it through Bronze, Silver, and Gold layers, with data quality validation and orchestration.
 
@@ -92,7 +92,7 @@ An automated AWS pipeline that ingests YouTube data and processes it through Bro
 
 ---
 
-<h3 align="center">🏞️ 2. Uber Eats Marketplace Lakehouse</h3>
+<h3 align="left">🏞️ 2. Uber Eats Marketplace Lakehouse</h3>
 
 A Databricks lakehouse implementing incremental ingestion, Medallion Architecture, SCD Type 2, data quality checks, and deployment workflows.
 
@@ -113,7 +113,7 @@ A Databricks lakehouse implementing incremental ingestion, Medallion Architectur
 
 ---
 
-<h3 align="center">🔎 3. Salesforce Renewal Risk Intelligence</h3>
+<h3 align="left">🔎 3. Salesforce Renewal Risk Intelligence</h3>
 
 A Salesforce-to-Databricks data platform designed for customer analytics, renewal risk assessment, and AI-powered insights.
 
@@ -134,7 +134,7 @@ A Salesforce-to-Databricks data platform designed for customer analytics, renewa
 
 ---
 
-<h3 align="center">🤖 4. ProductPulse AI — Retail Intelligence & Support Copilot</h3>
+<h3 align="left">🤖 4. ProductPulse AI — Retail Intelligence & Support Copilot</h3>
 
 An AI-powered retail intelligence platform built on Databricks, combining RAG, vector retrieval, SQL analytics, and LLM-powered interactions to deliver contextual product insights.
 
@@ -160,30 +160,30 @@ An AI-powered retail intelligence platform built on Databricks, combining RAG, v
 
 Technologies and tools I use in projects or am actively developing proficiency in:
 
-<h3 align="center">💻 Programming & Querying</h3>
+<h3 align="left">💻 Programming & Querying</h3>
 
 - **Languages:** Python, SQL
 - **Big Data Processing:** Apache Spark, PySpark
 
-<h3 align="center">🐍 Python Ecosystem</h3>
+<h3 align="left">🐍 Python Ecosystem</h3>
 
 - **Data Processing:** Pandas, NumPy, PyArrow, Polars
 - **AWS & APIs:** Boto3, Requests
 - **Database & Testing:** SQLAlchemy, Pytest
 - **Standard Library:** JSON, CSV, OS, pathlib, datetime, logging
 
-<h3 align="center">⚙️ Data Engineering & Distributed Systems</h3>
+<h3 align="left">⚙️ Data Engineering & Distributed Systems</h3>
 
 - **Streaming & Messaging:** Apache Kafka, Amazon Kinesis
 - **Workflow Orchestration:** Apache Airflow, AWS Step Functions
 - **Databases:** Amazon DynamoDB, MySQL, MongoDB
 - **Engineering Concepts:** ETL/ELT Pipelines, Data Warehousing, Data Modeling
 
-<h3 align="center">🏗️ Lakehouse & Databricks</h3>
+<h3 align="left">🏗️ Lakehouse & Databricks</h3>
 
 - Databricks, Delta Lake, Unity Catalog
 
-<h3 align="center">☁️ AWS Cloud Services</h3>
+<h3 align="left">☁️ AWS Cloud Services</h3>
 
 | Area | Services |
 |---|---|
@@ -194,11 +194,11 @@ Technologies and tools I use in projects or am actively developing proficiency i
 | **Messaging & Integration** | Amazon SNS, Amazon SQS, Amazon Kinesis |
 | **AI Services** | Amazon Bedrock |
 
-<h3 align="center">🧠 AI Data Engineering</h3>
+<h3 align="left">🧠 AI Data Engineering</h3>
 
 - Retrieval-Augmented Generation (RAG), Vector Search, LLM Integration, AI Agents, AI-powered Data Applications
 
-<h3 align="center">⌨️ Linux, CLI & Developer Tools</h3>
+<h3 align="left">⌨️ Linux, CLI & Developer Tools</h3>
 
 - **Linux & CLI:** Shell navigation, file operations, permissions, process and disk utilities, text processing, archiving, and remote access (`ssh`, `scp`, `curl`, `wget`)
 - **Version Control & CI/CD:** Git, GitHub, GitHub Actions
