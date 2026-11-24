@@ -36,7 +36,7 @@ Thanks for stopping by. This is where I document my Data Engineering journey, sh
 
 Explore my work across **AWS, Databricks, Python, SQL, and PySpark**.
 
-<h3 align="left">🧭 What You'll Find Here</h3>
+<h3 align="center">🧭 What You'll Find Here</h3>
 
 | Cloud Data Engineering | Lakehouse Projects |
 |---|---|
@@ -44,11 +44,11 @@ Explore my work across **AWS, Databricks, Python, SQL, and PySpark**.
 | Data Processing | Learning Resources |
 | Python, SQL & PySpark | Technical notes & guides |
 
-<h3 align="left">🚀 Start Exploring</h3>
+<h3 align="center">🚀 Start Exploring</h3>
 
 Take a look at my **Featured Projects** below to see practical implementations, architecture diagrams, and engineering workflows.
 
-<h3 align="left">🤝 Let's Connect and Grow Together</h3>
+<h3 align="center">🤝 Let's Connect and Grow Together</h3>
 
 Feel free to explore my repositories, share your thoughts, or connect with me on LinkedIn.
 
