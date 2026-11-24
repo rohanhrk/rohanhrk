@@ -69,6 +69,8 @@ Through hands-on projects, I'm exploring how **AWS and Databricks** can be used 
 - **Exploring:** AI-powered data applications, RAG, and LLM-integrated data workflows.
 - **Growing through:** Hands-on projects, continuous learning, and consistent problem-solving practice.
 
+---
+
 <h2 align="center">🚀 Featured Projects</h2>
 
 <h3 align="left">📊 1. YouTube Trending Data Pipeline</h3>
