@@ -24,7 +24,6 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
 </p>
 
----
 
 <div align="center">
 
@@ -56,8 +55,8 @@ Feel free to explore my repositories, share your thoughts, or connect with me on
 
 </div>
 
----
 
+<div align="center">
 <h2 align="center">👨‍💻 About Me</h2>
 
 I'm focused on building **reliable, scalable data systems** and turning raw data into trusted, analytics-ready datasets. I enjoy working across the data engineering lifecycle - from ingestion and transformation to orchestration, data quality, and serving.
@@ -69,8 +68,10 @@ Through hands-on projects, I'm exploring how **AWS and Databricks** can be used 
 - **Exploring:** AI-powered data applications, RAG, and LLM-integrated data workflows.
 - **Growing through:** Hands-on projects, continuous learning, and consistent problem-solving practice.
 
----
 
+</div>
+
+<div align="center">
 <h2 align="center">🚀 Featured Projects</h2>
 
 <h3 align="left">📊 1. YouTube Trending Data Pipeline</h3>
@@ -92,7 +93,6 @@ An automated AWS pipeline that ingests YouTube data and processes it through Bro
 
 [![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=flat&logo=github&logoColor=white)](https://github.com/rohanhrk/youtube-data-analysis-pipeline)
 
----
 
 <h3 align="left">🏞️ 2. Uber Eats Marketplace Lakehouse</h3>
 
@@ -113,7 +113,6 @@ A Databricks lakehouse implementing incremental ingestion, Medallion Architectur
 
 [![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=flat&logo=github&logoColor=white)](https://github.com/rohanhrk/uber-eats-marketplace-lakehouse)
 
----
 
 <h3 align="left">🔎 3. Salesforce Renewal Risk Intelligence</h3>
 
@@ -134,7 +133,6 @@ A Salesforce-to-Databricks data platform designed for customer analytics, renewa
 
 [![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=flat&logo=github&logoColor=white)](https://github.com/rohanhrk/salesforce-renewal-risk-dbx-pipeline)
 
----
 
 <h3 align="left">🤖 4. ProductPulse AI — Retail Intelligence & Support Copilot</h3>
 
@@ -156,8 +154,10 @@ An AI-powered retail intelligence platform built on Databricks, combining RAG, v
 
 [![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=flat&logo=github&logoColor=white)](https://github.com/rohanhrk/productpulse-ai)
 
----
 
+</div>
+
+<div align="center">
 <h2 align="center">🛠️ Technical Skills</h2>
 
 Technologies and tools I use in projects or am actively developing proficiency in:
@@ -205,8 +205,10 @@ Technologies and tools I use in projects or am actively developing proficiency i
 - **Linux & CLI:** Shell navigation, file operations, permissions, process and disk utilities, text processing, archiving, and remote access (`ssh`, `scp`, `curl`, `wget`)
 - **Version Control & CI/CD:** Git, GitHub, GitHub Actions
 
----
 
+</div>
+
+<div align="center">
 <h2 align="center">💼 Professional Background</h2>
 
 Previously a **Solution Delivery Analyst at Deloitte USI**, working on Oracle Fusion Cloud Security & Controls across HCM and ERP/FSCM environments.
@@ -220,21 +222,28 @@ My work focused on securing enterprise data and applications through:
 
 This experience gave me a strong foundation in **data security, access governance, data controls, and auditability** - areas that are essential when designing and operating trusted data platforms. I'm now building on that foundation through hands-on Cloud Data Engineering projects with AWS and Databricks.
 
----
 
+</div>
+
+<div align="center">
 <h2 align="center">🎓 Education</h2>
 
 **Bachelor of Technology (B.Tech) in Electrical Engineering**  
 National Institute of Technology, Silchar
 
----
 
+</div>
+
+<div align="center">
 <h2 align="center">📚 Engineering Resources</h2>
 
 A collection of notes and practical learning material that supports my Data Engineering journey.
 
 - **[Data Engineering Notes](https://github.com/rohanhrk/data-engineering-notes-2026)** - Organized notes, hands-on exercises, and interview preparation covering Python, SQL, big data, cloud platforms, and modern data engineering concepts.
 
+</div>
+
+<div align="center">
 <h2 align="center">🔭 Currently Exploring</h2>
 
 My current learning is centered on building dependable, production-oriented data systems:
@@ -244,8 +253,10 @@ My current learning is centered on building dependable, production-oriented data
 - **Databricks & Lakehouse** - Delta Lake, medallion architecture, incremental processing, and data quality.
 - **AI Data Engineering** - RAG pipelines, vector search, and integrating LLM capabilities into data applications.
 
----
 
+</div>
+
+<div align="center">
 <h2 align="center">🐍 GitHub Contribution Activity</h2>
 
 <p align="center">
@@ -256,6 +267,9 @@ My current learning is centered on building dependable, production-oriented data
   </picture>
 </p>
 
+</div>
+
+<div align="center">
 <h2 align="center">📈 GitHub Statistics</h2>
 
 <p align="center">
@@ -274,6 +288,9 @@ My current learning is centered on building dependable, production-oriented data
 </p>
 
 
+</div>
+
+<div align="center">
 <h2 align="center">🧩 LeetCode Statistics</h2>
 
 <p align="center">
@@ -283,7 +300,8 @@ My current learning is centered on building dependable, production-oriented data
   </a>
 </p>
 
----
+
+</div>
 
 <h1 align="center">Let's Connect</h1>
 
@@ -302,7 +320,6 @@ My current learning is centered on building dependable, production-oriented data
   </a>
 </p>
 
----
 
 <p align="center">
   <i>Learning continuously. Building consistently. Engineering better data systems.</i>
