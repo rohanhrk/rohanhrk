@@ -12,21 +12,26 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate light-mode growing snake
-        uses: dahan8473/snake-and-commits@v1
-        with:
-          github_user: ${{ github.repository_owner }}
-          output: dist/snake-light.svg
-          theme: green
-          counter: true
+      - name: Check out profile repository
+        uses: actions/checkout@v4
 
-      - name: Generate dark-mode growing snake
-        uses: dahan8473/snake-and-commits@v1
-        with:
-          github_user: ${{ github.repository_owner }}
-          output: dist/snake-dark.svg
-          theme: matrix
-          counter: true
+      - name: Generate light-mode growing snake from top-left
+        run: |
+          python .github/scripts/generate_snake.py \
+            --user "${{ github.repository_owner }}" \
+            --output dist/snake-light.svg \
+            --theme green
+        env:
+          GH_TOKEN: ${{ github.token }}
+
+      - name: Generate dark-mode growing snake from top-left
+        run: |
+          python .github/scripts/generate_snake.py \
+            --user "${{ github.repository_owner }}" \
+            --output dist/snake-dark.svg \
+            --theme matrix
+        env:
+          GH_TOKEN: ${{ github.token }}
 
       - name: Publish snake animation
         uses: peaceiris/actions-gh-pages@v4
