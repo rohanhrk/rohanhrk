@@ -231,9 +231,9 @@ My current learning is centered on building dependable, production-oriented data
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohanhrk/rohanhrk/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rohanhrk/rohanhrk/output/github-contribution-grid-snake.svg" />
-    <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/rohanhrk/rohanhrk/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohanhrk/rohanhrk/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rohanhrk/rohanhrk/output/snake-light.svg" />
+    <img alt="Growing snake game eating GitHub contributions" src="https://raw.githubusercontent.com/rohanhrk/rohanhrk/output/snake-light.svg" />
   </picture>
 </p>
 
