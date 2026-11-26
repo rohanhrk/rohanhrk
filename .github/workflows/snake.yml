@@ -12,13 +12,21 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate contribution snake
-        uses: Platane/snk@v3
+      - name: Generate light-mode growing snake
+        uses: dahan8473/snake-and-commits@v1
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          github_user: ${{ github.repository_owner }}
+          output: dist/snake-light.svg
+          theme: green
+          counter: true
+
+      - name: Generate dark-mode growing snake
+        uses: dahan8473/snake-and-commits@v1
+        with:
+          github_user: ${{ github.repository_owner }}
+          output: dist/snake-dark.svg
+          theme: matrix
+          counter: true
 
       - name: Publish snake animation
         uses: peaceiris/actions-gh-pages@v4
